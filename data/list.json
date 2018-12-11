@@ -1,0 +1,56 @@
+{
+  "category": [
+    {
+      "banner": "banner0",
+      "title": "项目类",
+      "data": [
+        {
+          "id": 1,
+          "img": "projImag/tpv.jpg",
+          "desc": "咸阳冠捷智能物流仓储管理系统",
+          "targetTo": "http://www.cecjiutian.com/rd1/tpvwms/#/"
+        },
+        {
+          "id": 2,
+          "img": "projImag/chot.jpg",
+          "desc": "咸阳彩虹光电智能制造管理系统",
+          "targetTo": "http://www.cecjiutian.com/rd1/chotwms/#/"
+        },
+        {
+          "id": 3,
+          "img": "projImag/chelmes.jpg",
+          "desc": "合肥彩虹蓝光智能制造管理系统",
+          "targetTo": "http://www.cecjiutian.com/rd1/chelmes/#/"
+        },
+        {
+          "id": 5,
+          "img": "projImag/jbs.jpg",
+          "desc": "佳贝思智能制造管理系统",
+          "targetTo": "http://www.cecjiutian.com/rd1/jbsmes/#/"
+        }
+      ]
+    },
+    {
+      "banner": "banner1",
+      "title": "产品类",
+      "data": [
+      ]
+    },
+    {
+      "banner": "banner2",
+      "title": "工具类",
+      "data": [
+        {
+          "id": 23,
+          "img": "prodImag/Jenkins/1.png",
+          "desc": "Jenkins"
+        },
+        {
+          "id": 31,
+          "img": "prodImag/postman/0.png",
+          "desc": "PostMan"
+        }
+      ]
+    }
+  ]
+}
